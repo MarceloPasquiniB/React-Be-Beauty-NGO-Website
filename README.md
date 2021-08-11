@@ -13,13 +13,13 @@ This project consists of fictitious NGO website, which aims to help women improv
 
 ### 📱 Project link
 
-[PROJECT LINK]()
+[PROJECT LINK](https://mpasquini-be-beauty-ngo.netlify.app/)
 
 ### 📸 Screenshot
 
 Home Page             |  Slider and Subscribe   | Products Page
 :-------------------------:|:-------------------------: |:-------------------------:
-![ Home Page]()  |  ![ Slider and Subscribe]()   |  ![ Products Page]()
+![ Home Page](https://github.com/MarceloPasquiniB/React-Be-Beauty-NGO-Website/blob/master/ScreenShots/ScreenShot-HomePage.png?raw=true)  |  ![ Slider and Subscribe](https://github.com/MarceloPasquiniB/React-Be-Beauty-NGO-Website/blob/master/ScreenShots/ScreenShot-Carousel.png?raw=true)   |  ![ Products Page](https://github.com/MarceloPasquiniB/React-Be-Beauty-NGO-Website/blob/master/ScreenShots/ScreenShot-Products.png?raw=true)
 
 
 
