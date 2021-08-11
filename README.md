@@ -6,14 +6,15 @@
 This project consists of fictitious NGO website, which aims to help women improve their self-esteem. This project includes the use of a public API, simulating the NGO's product inventory. To improve navigation, the “react-router-dom” library was used, simulating a multi-page application. 
 
 
+### 📱 Project link
+
+[PROJECT LINK](https://mpasquini-be-beauty-ngo.netlify.app/)
+
+
 ### 🗄 API Link
 
 [API Link]( https://makeup-api.herokuapp.com/)
 
-
-### 📱 Project link
-
-[PROJECT LINK](https://mpasquini-be-beauty-ngo.netlify.app/)
 
 ### 📸 Screenshot
 
