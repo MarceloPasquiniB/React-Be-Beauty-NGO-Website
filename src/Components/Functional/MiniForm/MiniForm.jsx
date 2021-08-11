@@ -1,10 +1,10 @@
-import React, { useState, useContext } from "react";
+import React, { useContext } from "react";
 import { ViewPortContext } from "../../../Context/ViewPortContext";
 import { FormCardText } from "../../Styled/Card";
 import { TextField, Button, Switch, FormControlLabel } from "@material-ui/core";
 
 export default function MiniForm() {
-  const { name, setName, email, setEmail, updates, setUpdates, sent, setSent } =
+  const { name, setName, email, setEmail, updates, setUpdates, setSent } =
     useContext(ViewPortContext);
 
   function HandleSubmit() {
